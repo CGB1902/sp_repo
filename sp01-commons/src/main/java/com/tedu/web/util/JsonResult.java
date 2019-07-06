@@ -89,4 +89,8 @@ public class JsonResult<T> {
 	public String toString() {
 		return JsonUtil.to(this);
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/CGB1902/sp_repo.git
